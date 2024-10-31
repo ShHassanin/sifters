@@ -1,5 +1,4 @@
 import streamlit as st
-import pages
 
 p= [
 st.Page("home.py", title="Home"),
